@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **New Technologies**
 
-- 📫 How to reach me **pavankumarsm27@gmail.com**
+- 📫 How to reach me **pavankumarsm5470@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
