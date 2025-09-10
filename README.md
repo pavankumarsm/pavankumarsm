@@ -23,6 +23,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavankumarsm&" alt="pavankumarsm" /></p>
 
+### 🏆 Achievements
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=pavankumarsm&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+</p>
 <!--
 **pavankumarsm/pavankumarsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
